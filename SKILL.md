@@ -1,12 +1,10 @@
 ---
 name: strategic-indifference
-description: A methodology for gaining power and clarity by deliberately not caring
-  about outcomes that others treat as essential. This isn't apathy—it's the calculated
-  withdrawal of emotional investment from g...
+description: A methodology for gaining power and clarity by deliberately not caring about outcomes that others treat as essential. This isn't apathy—it's the calculated withdrawal of emotional investment from g...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - strategic-indifference
 - writing
@@ -174,4 +172,3 @@ The ultimate form of strategic indifference is recognizing that even losing, eve
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
