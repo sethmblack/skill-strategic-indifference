@@ -4,7 +4,8 @@ description: A methodology for gaining power and clarity by deliberately not car
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.5072
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - strategic-indifference
 - writing
